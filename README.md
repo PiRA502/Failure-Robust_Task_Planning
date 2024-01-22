@@ -10,6 +10,13 @@ The code is modified from cLTL-synth(https://github.com/sahiny/cLTL-synth).
 Two videos are provided to show the simulation and hardware experiments.
 
 * The example of delivery robots working in a library workspace. The simulation is performed in the V-REP robot simulator.
-https://www.youtube.com/watch?v=TsQS0MRFgw4
+
+
+https://github.com/PiRA502/Failure-Robust_Task_Planning/assets/43596587/0d8d09db-f4d9-4534-8ffe-54eb54f4556c
+
+
 * The example of Turtlebot3-Burger mobile robots in the laboratory.
-https://github.com/PiRA502/Failure-Robust_Task_Planning/blob/main/turtlebot.mp4
+
+
+https://github.com/PiRA502/Failure-Robust_Task_Planning/assets/43596587/4e0b4e46-c48f-44ef-9729-5d92204452c0
+
