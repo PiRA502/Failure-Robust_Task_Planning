@@ -3,7 +3,7 @@
 This repository implements a MILP-based algorithm to solve a new type of failure-aware multi-robot task planning problem, which takes the unexpected robot failures into account, in order to enhance the robustness of the multi-robot system. 
 
 ## Code
-The Matlab implementations of both initially-robust algorithm and globally-robust algorithm are provided, using [Gurobi](https://www.gurobi.com/) as the MILP-solver.
+The Matlab implementations for both initially-robust algorithm and globally-robust algorithm are provided, using [Gurobi](https://www.gurobi.com/) as the MILP-solver.
 
 The code is modified from [cLTL-synth](https://github.com/sahiny/cLTL-synth). 
 
