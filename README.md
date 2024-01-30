@@ -4,7 +4,6 @@ This repository implements a MILP-based algorithm to solve a new type of failure
 
 ## Code
 The Matlab implementations for both initially-robust algorithm and globally-robust algorithm are provided, using [Gurobi](https://www.gurobi.com/) as the MILP-solver.
-
 The code is modified from [cLTL-synth](https://github.com/sahiny/cLTL-synth). 
 
 ## Video
